@@ -1,0 +1,14 @@
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid black;
+    width: 50%;
+    min-height: 100vh;
+    margin: 20px auto;
+}
+.box{
+    border: 1px solid black;
+    color: #fff;
+    text-align: center;
+}
